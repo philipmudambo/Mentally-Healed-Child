@@ -1,4 +1,4 @@
-# Mentally Healed Child Project
+# MENTALLY HEALED CHILD PROJECT
 ![Project Logo](https://lucianahomes.com/)
 
 ## Overview
