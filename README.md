@@ -1,5 +1,5 @@
 # Mentally Healed Child Project
-![Project Logo](./images/project-logo.png)
+![Project Logo](https://lucianahomes.com/)
 
 ## Overview
 The Mentally Healed Child Project is an initiative aimed at addressing the issue of underage substance abuse through education, technology, and support. Our mission is to heal the minds of children who have been exposed to substance abuse and empower them to make healthy choices.
@@ -23,9 +23,7 @@ Our team will review your contribution, provide feedback, and merge it if it ali
   This project is licensed under the MIT License - see the LICENSE file for details.
 
 - [Contact](#contact)
-  If you have any questions or need further information, please contact our Project Manager, Immaculate Wesonga, at wimma99@gmail.com
-                                                OR
-Visit our website [lucianahomes.com](https://lucianahomes.com/about) for more information about our organization and programs.
+  If you have any questions or need further information, please contact our Project Manager, Immaculate Wesonga, at wimma99@gmail.com or visit our website [lucianahomes.com](https://lucianahomes.com/about) for more information about our organization and programs.
 
 
   
