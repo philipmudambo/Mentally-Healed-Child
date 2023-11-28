@@ -10,7 +10,7 @@ The Mentally Healed Child Project is an initiative aimed at addressing the issue
   use each component.
   
 - [Documentation](#documentation)
-  In the Documentation folder, you will find comprehensive guides and resources related to the project including user manuals(a guide for end-users on how to interact with our AI chatbots and digital health games), technical documentation(a detailed technical information about the project's architecture, data models, and algorithms), research papers, and reports.
+  In the Documentation folder, you will find comprehensive guides and resources related to the project including user manuals(a guide for end-users on how to interact with our AI chatbots and digital health games), technical documentation(a detailed technical information about the project's architecture, data models, and algorithms via Google Drive link: https://t.ly/n3r9a ), research papers, and reports.
   
 - [Contributing](#contributing)
   We welcome contributions from the community to help us make a positive impact on the lives of young children. If you'd like to contribute, please follow these guidelines:
